@@ -1,0 +1,13 @@
+{
+  "name": "bergman-web",
+  "version": "1.0.0",
+  "description": "artist website for Lisa Bergman",
+  "main": "index.js",
+  "repository": "https://github.com/sagaquisces/bergman-web.git",
+  "author": "Michael Dunlap <michaeldunlap@earthlink.net>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
